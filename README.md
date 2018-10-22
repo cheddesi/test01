@@ -1,9 +1,8 @@
 # test01
 
-## This will be our first git project
- Let's see if this is gonna work
- 
-## IF git doesn't work
-```bash
-echo "test"
-```
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
